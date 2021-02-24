@@ -23,7 +23,7 @@
 
 
   <footer>
-    Made with ❤️ in India By Mohit Patidar.
+    Made With ❤️ In India By Mohit Patidar.
   </footer>
   <script src="index.js" charset="utf-8"></script>
 </body>
